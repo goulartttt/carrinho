@@ -1,0 +1,30 @@
+
+[
+    {
+        "nome": "Televisao 4k",
+         "valor": 1999.99, 
+         "categoria": "Eletronico"
+    },
+    {
+        "nome": "Sapato social", 
+        "valor": 175.07, 
+        "categoria": "Moda"
+    },
+    {
+        "nome": "Mintendo Sweet", 
+        "valor": 2499.99, 
+        "categoria": "Eletronico"
+    },
+    {
+        "nome": "Camiseta Vike", 
+        "valor": 79.99, 
+        "categoria": "Moda"
+    },
+    {
+        "nome": "Caneta Tosca - Branca", 
+        "valor": 25.53, 
+        "categoria": "Papelaria"
+    }
+]
+
+
